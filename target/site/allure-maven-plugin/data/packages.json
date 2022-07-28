@@ -1,0 +1,65 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "tests",
+    "children" : [ {
+      "name" : "loans.positive.CarLeasingPositiveTest",
+      "children" : [ {
+        "name" : "applyCarsWithMileage",
+        "uid" : "7b13c8b73ded34c8",
+        "parentUid" : "4121c184d8ba065039a3fc5c059143be",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658928273248,
+          "stop" : 1658928283799,
+          "duration" : 10551
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "goToTheTabAgreements",
+        "uid" : "b9b544d9b2405689",
+        "parentUid" : "4121c184d8ba065039a3fc5c059143be",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658928283870,
+          "stop" : 1658928287337,
+          "duration" : 3467
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "loans.positive.CarLeasingPositiveTest"
+    }, {
+      "name" : "telecomunications.positive.MobileTopUpPositiveTest",
+      "children" : [ {
+        "name" : "checkMinimumReplenishmentSum",
+        "uid" : "564fd34fa4750085",
+        "parentUid" : "3a21b36e025e4abc568aa38b7d99ae4f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658928288484,
+          "stop" : 1658928299201,
+          "duration" : 10717
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkIsRedirectToAuth",
+        "uid" : "9e2cd52bd3201efc",
+        "parentUid" : "3a21b36e025e4abc568aa38b7d99ae4f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1658928299212,
+          "stop" : 1658928302954,
+          "duration" : 3742
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "telecomunications.positive.MobileTopUpPositiveTest"
+    } ],
+    "uid" : "bf49149a3821e34f7608bb6885d52868"
+  } ]
+}

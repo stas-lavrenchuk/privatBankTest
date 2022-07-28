@@ -1,0 +1,41 @@
+[ {
+  "uid" : "9e2cd52bd3201efc",
+  "name" : "checkIsRedirectToAuth()",
+  "time" : {
+    "start" : 1658928299212,
+    "stop" : 1658928302954,
+    "duration" : 3742
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b13c8b73ded34c8",
+  "name" : "applyCarsWithMileage()",
+  "time" : {
+    "start" : 1658928273248,
+    "stop" : 1658928283799,
+    "duration" : 10551
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "564fd34fa4750085",
+  "name" : "checkMinimumReplenishmentSum()",
+  "time" : {
+    "start" : 1658928288484,
+    "stop" : 1658928299201,
+    "duration" : 10717
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b9b544d9b2405689",
+  "name" : "goToTheTabAgreements()",
+  "time" : {
+    "start" : 1658928283870,
+    "stop" : 1658928287337,
+    "duration" : 3467
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

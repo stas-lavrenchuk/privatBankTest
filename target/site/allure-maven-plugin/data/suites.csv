@@ -1,0 +1,5 @@
+"Status","Name","Duration in ms","Description"
+"passed","tests.telecomunications.positive.MobileTopUpPositiveTest.checkIsRedirectToAuth","3742",""
+"passed","tests.loans.positive.CarLeasingPositiveTest.applyCarsWithMileage","10551",""
+"passed","tests.telecomunications.positive.MobileTopUpPositiveTest.checkMinimumReplenishmentSum","10717",""
+"passed","tests.loans.positive.CarLeasingPositiveTest.goToTheTabAgreements","3467",""
